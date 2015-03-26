@@ -1,3 +1,6 @@
+" Clean paste
+set paste
+
 " Show line numbers
 set nu
 
